@@ -16,3 +16,4 @@ Primeiramente, você precisa ter um editor de código, e o Git instalados no seu
 Clone o repositório <br />
 Abra o terminal e digite   npm i <br />
 digite npm start <br />
+Em alguns segundos, o http://localhost:8000 irá abrir automaticamente no seu navegador padrão <br /> 
